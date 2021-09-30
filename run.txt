@@ -1,0 +1,2 @@
+--log-id 123456 --log-timestamp --operation send --channel email --mserver "SEUSERVIDORDEEMAIL" --mfrom "EMAIL@SERVIDOR.COM" --mto "arnaldo.tramontano@gmail.com" --mbody "Este é um teste." --user "usuario" --pass "**SENHA**" --mport 465 --mssl --msubject "Teste de envio" 
+
